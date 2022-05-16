@@ -1,6 +1,6 @@
 {
   "name": "react-native-demo-native-view",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React Native demo native view",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",

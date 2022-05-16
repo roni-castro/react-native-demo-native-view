@@ -6,7 +6,7 @@ import { DemoNativeViewView } from 'react-native-demo-native-view';
 export default function App() {
   return (
     <View style={styles.container}>
-      <DemoNativeViewViewManager color="#32a852" style={styles.box} />
+      <DemoNativeViewView color="#32a852" style={styles.box} />
     </View>
   );
 }
